@@ -1,0 +1,14 @@
+SBP by Mark Klobukov
+CS 510 Drexel
+
+Compiles and runs on Tux. Tested 10/19/2017
+
+Compilation instructions:
+Run "make". This will put an executable called "hw1"
+into current directory
+
+Execution instructions:
+run "./hw1". The program will execute and print
+output according to project instructions.
+
+Sample output is contained in the file called "output-hw1.txt" (Generated on Tux)
